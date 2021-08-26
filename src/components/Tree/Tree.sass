@@ -1,0 +1,49 @@
+p
+  margin: 0
+  padding: 0
+
+.node
+  position: relative
+  margin-left: 50px
+  min-height: fit-content
+
+.node:not(.node-first):before
+  content: ""
+  position: absolute
+  top: 12px
+  left: -40px
+  width: 25px
+  height: 1px
+  background: black
+
+.linesContainer
+  height: auto
+  display: flex
+  flex-direction: row
+
+.flex-row
+  display: flex
+  flex-direction: row
+
+.children
+  position: relative
+  overflow: hidden
+  height: auto
+  transition: height 1s
+
+.children:before
+  content: ""
+  position: absolute
+  left: 12px
+  top: 6px
+  background: black
+  height: calc(100% - 12px)
+  width: 1px
+
+.align-left
+  display: flex
+  flex-direction: column
+  align-items: flex-start
+
+.childless:nth-of-type(odd)
+  background-color: rgba(232, 232, 232, 1)

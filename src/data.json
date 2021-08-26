@@ -1,0 +1,527 @@
+{
+  "line1": "Nagłówek drzewa",
+  "line2": "wielowierszowy",
+  "type": "checkboxNode",
+  "isExpanded": false,
+  "textProperties": {
+    "fontSize": "medium",
+    "isBold": true
+  },
+  "children": [
+    {
+      "line1": "Pododdział 1",
+      "line2": "",
+      "type": "radioNode",
+      "isExpanded": false,
+      "textProperties": {
+        "fontSize": "medium",
+        "isBold": true
+      },
+      "children": [
+        {
+          "line1": "Zespół 1",
+          "line2": "HR",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 2",
+          "line2": "Marketing",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 3",
+          "line2": "Analitycy",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 3.1",
+              "line2": "Kalendarz",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.2",
+              "line2": "Kokpit",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.3",
+              "line2": "Widok",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.4",
+              "line2": "Różności",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.5",
+              "line2": "Szukaj",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "line1": "Zespół 4",
+          "line2": "Programiści",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 4.1",
+              "line2": "Front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "large",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.2",
+              "line2": "Middle-front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.3",
+              "line2": "Middle-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.4",
+              "line2": "Middle-back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.5",
+              "line2": "Back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line1": "Pododdział 2",
+      "line2": "",
+      "type": "radioNode",
+      "isExpanded": false,
+      "textProperties": {
+        "fontSize": "medium",
+        "isBold": true
+      },
+      "children": [
+        {
+          "line1": "Zespół 1",
+          "line2": "HR",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 2",
+          "line2": "Marketing",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 3",
+          "line2": "Analitycy",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 3.1",
+              "line2": "Kalendarz",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.2",
+              "line2": "Kokpit",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.3",
+              "line2": "Widok",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.4",
+              "line2": "Różności",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.5",
+              "line2": "Szukaj",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "line1": "Zespół 4",
+          "line2": "Programiści",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 4.1",
+              "line2": "Front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "large",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.2",
+              "line2": "Middle-front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.3",
+              "line2": "Middle-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.4",
+              "line2": "Middle-back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.5",
+              "line2": "Back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line1": "Pododdział 3",
+      "line2": "",
+      "type": "radioNode",
+      "isExpanded": false,
+      "textProperties": {
+        "fontSize": "medium",
+        "isBold": true
+      },
+      "children": [
+        {
+          "line1": "Zespół 1",
+          "line2": "HR",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 2",
+          "line2": "Marketing",
+          "type": "node",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": []
+        },
+        {
+          "line1": "Zespół 3",
+          "line2": "Analitycy",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 3.1",
+              "line2": "Kalendarz",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.2",
+              "line2": "Kokpit",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.3",
+              "line2": "Widok",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.4",
+              "line2": "Różności",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 3.5",
+              "line2": "Szukaj",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "line1": "Zespół 4",
+          "line2": "Programiści",
+          "type": "checkboxNode",
+          "isExpanded": false,
+          "textProperties": {
+            "fontSize": "medium",
+            "isBold": false
+          },
+          "children": [
+            {
+              "line1": "Podzespół 4.1",
+              "line2": "Front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "large",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.2",
+              "line2": "Middle-front-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.3",
+              "line2": "Middle-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.4",
+              "line2": "Middle-back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "medium",
+                "isBold": false
+              },
+              "children": []
+            },
+            {
+              "line1": "Podzespół 4.5",
+              "line2": "Back-end",
+              "type": "node",
+              "isExpanded": false,
+              "textProperties": {
+                "fontSize": "small",
+                "isBold": false
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line1": "Niezrzeszeni",
+      "line2": "",
+      "type": "node",
+      "isExpanded": false,
+      "textProperties": {
+        "fontSize": "large",
+        "isBold": false
+      },
+      "children": []
+    }
+  ]
+}
